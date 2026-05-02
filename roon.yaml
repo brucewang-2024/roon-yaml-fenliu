@@ -1,4 +1,3 @@
-# Author: GuYe
 priority: -10
 use-epoll: true
 fd-max: 65535
